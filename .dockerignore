@@ -6,3 +6,4 @@
 # created by virtualenv automatically
 .venv/**/*
 fly.toml
+**/*/__pycache__
