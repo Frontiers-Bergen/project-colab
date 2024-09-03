@@ -1,0 +1,8 @@
+# flyctl launch added from .mypy_cache/.gitignore
+# Automatically created by mypy
+.mypy_cache/**/*
+
+# flyctl launch added from .venv/.gitignore
+# created by virtualenv automatically
+.venv/**/*
+fly.toml
